@@ -1,0 +1,1 @@
+Utilized R and STATA to conduct econometric analyses inspired by the gravity model of trade to understand the factors that influence Latin American and Southeast Asian countries’ integration into global value chains.
